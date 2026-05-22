@@ -1,0 +1,7 @@
+{
+    "id": "avtoday_quan_apex",
+    "name": "AVToday.io APEX (Private)",
+    "version": "3.0.0",
+    "scriptUrl": "https://raw.githubusercontent.com/TEN-USER-NAME/quan-av-plugins/main/plugins/avtoday_quan_apex.js",
+    "iconUrl": "https://avtoday.io/favicon.ico"
+}
